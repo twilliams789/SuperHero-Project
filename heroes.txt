@@ -1,0 +1,8 @@
+Iron Man|Strategist
+Captain America|Leader
+Hulk|Heavy Hitter
+Black Panther|Fighter
+Thor|Heavy Hitter
+Spider Man|Scout
+Doctor Strange|Support
+Captain Marvel|Leader
